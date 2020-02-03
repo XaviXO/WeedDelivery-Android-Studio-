@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dispensary"
+        android:icon="@drawable/icon_dispensarys"
+        android:title="Dispensary" />
+    <item
+        android:id="@+id/nav_tray"
+        android:icon="@drawable/icon_tray"
+        android:title="Tray" />
+    <item
+        android:id="@+id/nav_order"
+        android:icon="@drawable/icon_orders"
+        android:title="Order" />
+    <item
+        android:id="@+id/nav_logout"
+        android:layout_width="match_parent"
+        android:icon="@drawable/icon_login"
+        android:title="Logout" />
+</menu>

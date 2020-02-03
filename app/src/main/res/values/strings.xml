@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeedConnectXO</string>
+    <string name="facebook_app_id">359631728132518</string>
+    <string name="fb_login_protocol_scheme">fb359631728132518</string>
+
+    <string name="API_URL">http://192.168.1.115:8000/api</string>
+    <string name="CLIENT_ID">qonTtnWZdAiJJJeGTbDSEQK8ztFcTBA4CKdIEIrh</string>
+    <string name="CLIENT_SECRET">Iz7suBdPn85XiDDSLEbfAPNAJz10U2cnBpvsczATB2LYxB2XbFy1e7VHWdg5i4GqfDbe16DPR0vHRqPcP88BQ7AwMJ013bhHB86rA1O42IP7yRd2ZBEHeu9ducnGSsH0</string>
+
+    <string name="title_activity_customer_main">CustomerMainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
